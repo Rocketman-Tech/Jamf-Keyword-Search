@@ -17,7 +17,7 @@ Search is **case-insensitive** by default; enable exact matching with `--case-se
 Install dependencies:
 
 ```bash
-pip install requests
+pip3 install requests
 ````
 
 ---
